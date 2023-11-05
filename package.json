@@ -1,11 +1,11 @@
 {
-  "name": "react-tetris",
+  "name": "Stack-n-Earn-XRPL-Tetris-Edition",
   "version": "0.3.0",
   "description": "Embed a game of Tetris in your React app",
   "main": "lib/components/Tetris.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brandly/react-tetris"
+    "url": "https://github.com/rei-tsunemi/Stack-n-Earn-XRPL-Tetris-Edition"
   },
   "dependencies": {
     "cors": "^2.8.5",
